@@ -17,14 +17,14 @@ Before the using please take a bot token and learn your chat id on telegram.
 When you don't want use telegram you can use any other applications for that system. Only necessery is the system for sending document.
 ""tarikozluk""
 
-Bu kodu kullanmadan ve uygulamadan önce lütfen yüzünüzün resimlerinizin olduğu klasörü kurunuz.
-Çünkü openCV bu fotografları uygulayacak ve bulacak.
-Kullanmadan önce lütfen telegram üzerinden bot tokeninizi alınız ve chat id'nizi ogreniniz.
-Telegram kullanmak istemezseniz başka bir uygulama kullanabilirsiniz. Tek gereksinizm dosya yollama sistemine sahip olması.
+Bu kodu kullanmadan ve uygulamadan Ã¶nce lÃ¼tfen yÃ¼zÃ¼nÃ¼zÃ¼n resimlerinizin olduÃ°u klasÃ¶rÃ¼ kurunuz.
+Ã‡Ã¼nkÃ¼ openCV bu fotograflarÃ½ uygulayacak ve bulacak.
+Kullanmadan Ã¶nce lÃ¼tfen telegram Ã¼zerinden bot tokeninizi alÃ½nÃ½z ve chat id'nizi ogreniniz.
+Telegram kullanmak istemezseniz baÃ¾ka bir uygulama kullanabilirsiniz. Tek gereksinizm dosya yollama sistemine sahip olmasÃ½.
 ""tarikozluk""
 
-Bevor Sie diese Code benutzen und anwenden, Bitte installieren Sie die Dokumente, in den the Bilder Ihrer Köpfer sind.
-Denn OpenCV wird die anwenden und dann es wird finden.
+Bevor Sie diese Code benutzen und anwenden, Bitte installieren Sie die Dokumente, in den the Bilder Ihrer KÃ¶pfer sind.
+Denn OpenCV wird die anwenden und dann wird es finden.
 Vor der Nutzung, Bitte bekommen Sie einen Bot Token und Lernen Sie Ihr Chat ID aus dem Telegram
-Wenn Sie telegram nicht nutzen wollen, können Sie eine andere Anwendung für dieses System benutzen aber es muss sein, das es Dokumente fürs System senden.
+Wenn Sie telegram nicht nutzen wollen, kÃ¶nnen Sie eine andere Anwendung fÃ¼r dieses System benutzen aber es muss sein, das es Dokumente fÃ¼rs System senden.
 ""tarikozluk"" 
