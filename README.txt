@@ -23,8 +23,8 @@ Kullanmadan önce lütfen telegram üzerinden bot tokeninizi alýnýz ve chat id
 Telegram kullanmak istemezseniz baþka bir uygulama kullanabilirsiniz. Tek gereksinizm dosya yollama sistemine sahip olmasý.
 ""tarikozluk""
 
-Bevor Sie diese Code benutzen und anwenden, Bitte installieren Sie die Dokumente, in den the Bilder Ihrer Köpfer sind.
+Bevor Sie diese Code benutzen und anwenden, Bitte installieren Sie die Dokumente, in den die Bilder Ihrer Köpfer sind.
 Denn OpenCV wird die anwenden und dann wird es finden.
 Vor der Nutzung, Bitte bekommen Sie einen Bot Token und Lernen Sie Ihr Chat ID aus dem Telegram
-Wenn Sie telegram nicht nutzen wollen, können Sie eine andere Anwendung für dieses System benutzen aber es muss sein, das es Dokumente fürs System senden.
+Wenn Sie telegram nicht nutzen wollen, können Sie eine andere Anwendung für dieses System benutzen aber es muss sein, dass es Dokumente fürs System senden.
 ""tarikozluk"" 
